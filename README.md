@@ -2,14 +2,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## [Follow us on Instagram for Machine Learning Guidelines & Path](https://www.instagram.com/machine_learning_hub.ai/)
-## [Visit out Store for more intresting Project](https://www.instamojo.com/kushalbhavsar1820/)
-
-### Sourcerer
-<a href="https://sourcerer.io/spidy20"><img src="https://avatars2.githubusercontent.com/u/42056100?v=4" height="50px" width="50px" alt=""/></a>
-### This is without GUI version, if you want GUI version then purchase from [here](https://www.instamojo.com/kushalbhavsar1820/instagram-filter-system-in-python-using-open)
-
-### GUI Video Demo:- [YouTube](https://youtu.be/xZ8rXR6Sen8)
 
 ### Structure of Repository:-
 - `video_detection.py` is for video detection which can put filters according to your choics on live camera (Multiple face supported)
